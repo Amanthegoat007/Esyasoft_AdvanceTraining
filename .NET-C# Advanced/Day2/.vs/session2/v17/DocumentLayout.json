@@ -1,0 +1,125 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\session2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1E00EE01-312B-47BF-93B0-540206B7FBD4}|session2\\session2.csproj|d:\\session2\\session2\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E00EE01-312B-47BF-93B0-540206B7FBD4}|session2\\session2.csproj|solutionrelative:session2\\company.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E00EE01-312B-47BF-93B0-540206B7FBD4}|session2\\session2.csproj|d:\\session2\\session2\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E00EE01-312B-47BF-93B0-540206B7FBD4}|session2\\session2.csproj|solutionrelative:session2\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E00EE01-312B-47BF-93B0-540206B7FBD4}|session2\\session2.csproj|d:\\session2\\session2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E00EE01-312B-47BF-93B0-540206B7FBD4}|session2\\session2.csproj|solutionrelative:session2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E00EE01-312B-47BF-93B0-540206B7FBD4}|session2\\session2.csproj|d:\\session2\\session2\\movieticketbookingsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E00EE01-312B-47BF-93B0-540206B7FBD4}|session2\\session2.csproj|solutionrelative:session2\\movieticketbookingsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E00EE01-312B-47BF-93B0-540206B7FBD4}|session2\\session2.csproj|d:\\session2\\session2\\librarymanagementsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E00EE01-312B-47BF-93B0-540206B7FBD4}|session2\\session2.csproj|solutionrelative:session2\\librarymanagementsystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E00EE01-312B-47BF-93B0-540206B7FBD4}|session2\\session2.csproj|d:\\session2\\session2\\human.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E00EE01-312B-47BF-93B0-540206B7FBD4}|session2\\session2.csproj|solutionrelative:session2\\human.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LibraryManagementSystem.cs",
+              "DocumentMoniker": "D:\\session2\\session2\\LibraryManagementSystem.cs",
+              "RelativeDocumentMoniker": "session2\\LibraryManagementSystem.cs",
+              "ToolTip": "D:\\session2\\session2\\LibraryManagementSystem.cs",
+              "RelativeToolTip": "session2\\LibraryManagementSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T06:23:33.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MovieTicketBookingSystem.cs",
+              "DocumentMoniker": "D:\\session2\\session2\\MovieTicketBookingSystem.cs",
+              "RelativeDocumentMoniker": "session2\\MovieTicketBookingSystem.cs",
+              "ToolTip": "D:\\session2\\session2\\MovieTicketBookingSystem.cs",
+              "RelativeToolTip": "session2\\MovieTicketBookingSystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAmwAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T06:22:21.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Company.cs",
+              "DocumentMoniker": "D:\\session2\\session2\\Company.cs",
+              "RelativeDocumentMoniker": "session2\\Company.cs",
+              "ToolTip": "D:\\session2\\session2\\Company.cs",
+              "RelativeToolTip": "session2\\Company.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T06:21:12.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Human.cs",
+              "DocumentMoniker": "D:\\session2\\session2\\Human.cs",
+              "RelativeDocumentMoniker": "session2\\Human.cs",
+              "ToolTip": "D:\\session2\\session2\\Human.cs",
+              "RelativeToolTip": "session2\\Human.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T06:24:24.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\session2\\session2\\Employee.cs",
+              "RelativeDocumentMoniker": "session2\\Employee.cs",
+              "ToolTip": "D:\\session2\\session2\\Employee.cs",
+              "RelativeToolTip": "session2\\Employee.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T06:19:24.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\session2\\session2\\Program.cs",
+              "RelativeDocumentMoniker": "session2\\Program.cs",
+              "ToolTip": "D:\\session2\\session2\\Program.cs",
+              "RelativeToolTip": "session2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-07T04:34:56.094Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

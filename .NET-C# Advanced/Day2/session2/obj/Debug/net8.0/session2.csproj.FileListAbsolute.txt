@@ -1,0 +1,14 @@
+D:\session2\session2\bin\Debug\net8.0\session2.exe
+D:\session2\session2\bin\Debug\net8.0\session2.deps.json
+D:\session2\session2\bin\Debug\net8.0\session2.runtimeconfig.json
+D:\session2\session2\bin\Debug\net8.0\session2.dll
+D:\session2\session2\bin\Debug\net8.0\session2.pdb
+D:\session2\session2\obj\Debug\net8.0\session2.GeneratedMSBuildEditorConfig.editorconfig
+D:\session2\session2\obj\Debug\net8.0\session2.AssemblyInfoInputs.cache
+D:\session2\session2\obj\Debug\net8.0\session2.AssemblyInfo.cs
+D:\session2\session2\obj\Debug\net8.0\session2.csproj.CoreCompileInputs.cache
+D:\session2\session2\obj\Debug\net8.0\session2.dll
+D:\session2\session2\obj\Debug\net8.0\refint\session2.dll
+D:\session2\session2\obj\Debug\net8.0\session2.pdb
+D:\session2\session2\obj\Debug\net8.0\session2.genruntimeconfig.cache
+D:\session2\session2\obj\Debug\net8.0\ref\session2.dll

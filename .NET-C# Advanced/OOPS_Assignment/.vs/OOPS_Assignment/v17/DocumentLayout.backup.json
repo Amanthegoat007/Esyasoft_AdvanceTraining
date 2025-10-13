@@ -1,0 +1,288 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c# assignments\\OOPS_Assignment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8DD1316A-DCD5-4B8C-AF4B-FB9818AC0A48}|OOPS_Assignment\\OOPS_Assignment.csproj|d:\\c# assignments\\oops_assignment\\oops_assignment\\idataingestor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DD1316A-DCD5-4B8C-AF4B-FB9818AC0A48}|OOPS_Assignment\\OOPS_Assignment.csproj|solutionrelative:oops_assignment\\idataingestor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DD1316A-DCD5-4B8C-AF4B-FB9818AC0A48}|OOPS_Assignment\\OOPS_Assignment.csproj|d:\\c# assignments\\oops_assignment\\oops_assignment\\alarmrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DD1316A-DCD5-4B8C-AF4B-FB9818AC0A48}|OOPS_Assignment\\OOPS_Assignment.csproj|solutionrelative:oops_assignment\\alarmrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DD1316A-DCD5-4B8C-AF4B-FB9818AC0A48}|OOPS_Assignment\\OOPS_Assignment.csproj|d:\\c# assignments\\oops_assignment\\oops_assignment\\loadprofileday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DD1316A-DCD5-4B8C-AF4B-FB9818AC0A48}|OOPS_Assignment\\OOPS_Assignment.csproj|solutionrelative:oops_assignment\\loadprofileday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DD1316A-DCD5-4B8C-AF4B-FB9818AC0A48}|OOPS_Assignment\\OOPS_Assignment.csproj|d:\\c# assignments\\oops_assignment\\oops_assignment\\billingengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DD1316A-DCD5-4B8C-AF4B-FB9818AC0A48}|OOPS_Assignment\\OOPS_Assignment.csproj|solutionrelative:oops_assignment\\billingengine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DD1316A-DCD5-4B8C-AF4B-FB9818AC0A48}|OOPS_Assignment\\OOPS_Assignment.csproj|d:\\c# assignments\\oops_assignment\\oops_assignment\\agriculturerule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DD1316A-DCD5-4B8C-AF4B-FB9818AC0A48}|OOPS_Assignment\\OOPS_Assignment.csproj|solutionrelative:oops_assignment\\agriculturerule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DD1316A-DCD5-4B8C-AF4B-FB9818AC0A48}|OOPS_Assignment\\OOPS_Assignment.csproj|d:\\c# assignments\\oops_assignment\\oops_assignment\\commercialrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DD1316A-DCD5-4B8C-AF4B-FB9818AC0A48}|OOPS_Assignment\\OOPS_Assignment.csproj|solutionrelative:oops_assignment\\commercialrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DD1316A-DCD5-4B8C-AF4B-FB9818AC0A48}|OOPS_Assignment\\OOPS_Assignment.csproj|d:\\c# assignments\\oops_assignment\\oops_assignment\\domesticrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DD1316A-DCD5-4B8C-AF4B-FB9818AC0A48}|OOPS_Assignment\\OOPS_Assignment.csproj|solutionrelative:oops_assignment\\domesticrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DD1316A-DCD5-4B8C-AF4B-FB9818AC0A48}|OOPS_Assignment\\OOPS_Assignment.csproj|d:\\c# assignments\\oops_assignment\\oops_assignment\\ibillingrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DD1316A-DCD5-4B8C-AF4B-FB9818AC0A48}|OOPS_Assignment\\OOPS_Assignment.csproj|solutionrelative:oops_assignment\\ibillingrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DD1316A-DCD5-4B8C-AF4B-FB9818AC0A48}|OOPS_Assignment\\OOPS_Assignment.csproj|d:\\c# assignments\\oops_assignment\\oops_assignment\\dlmsmeter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DD1316A-DCD5-4B8C-AF4B-FB9818AC0A48}|OOPS_Assignment\\OOPS_Assignment.csproj|solutionrelative:oops_assignment\\dlmsmeter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DD1316A-DCD5-4B8C-AF4B-FB9818AC0A48}|OOPS_Assignment\\OOPS_Assignment.csproj|d:\\c# assignments\\oops_assignment\\oops_assignment\\modemgateway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DD1316A-DCD5-4B8C-AF4B-FB9818AC0A48}|OOPS_Assignment\\OOPS_Assignment.csproj|solutionrelative:oops_assignment\\modemgateway.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DD1316A-DCD5-4B8C-AF4B-FB9818AC0A48}|OOPS_Assignment\\OOPS_Assignment.csproj|d:\\c# assignments\\oops_assignment\\oops_assignment\\ireadable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DD1316A-DCD5-4B8C-AF4B-FB9818AC0A48}|OOPS_Assignment\\OOPS_Assignment.csproj|solutionrelative:oops_assignment\\ireadable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DD1316A-DCD5-4B8C-AF4B-FB9818AC0A48}|OOPS_Assignment\\OOPS_Assignment.csproj|d:\\c# assignments\\oops_assignment\\oops_assignment\\phasecount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DD1316A-DCD5-4B8C-AF4B-FB9818AC0A48}|OOPS_Assignment\\OOPS_Assignment.csproj|solutionrelative:oops_assignment\\phasecount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DD1316A-DCD5-4B8C-AF4B-FB9818AC0A48}|OOPS_Assignment\\OOPS_Assignment.csproj|d:\\c# assignments\\oops_assignment\\oops_assignment\\meterinheritence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DD1316A-DCD5-4B8C-AF4B-FB9818AC0A48}|OOPS_Assignment\\OOPS_Assignment.csproj|solutionrelative:oops_assignment\\meterinheritence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DD1316A-DCD5-4B8C-AF4B-FB9818AC0A48}|OOPS_Assignment\\OOPS_Assignment.csproj|d:\\c# assignments\\oops_assignment\\oops_assignment\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DD1316A-DCD5-4B8C-AF4B-FB9818AC0A48}|OOPS_Assignment\\OOPS_Assignment.csproj|solutionrelative:oops_assignment\\device.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DD1316A-DCD5-4B8C-AF4B-FB9818AC0A48}|OOPS_Assignment\\OOPS_Assignment.csproj|d:\\c# assignments\\oops_assignment\\oops_assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DD1316A-DCD5-4B8C-AF4B-FB9818AC0A48}|OOPS_Assignment\\OOPS_Assignment.csproj|solutionrelative:oops_assignment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8DD1316A-DCD5-4B8C-AF4B-FB9818AC0A48}|OOPS_Assignment\\OOPS_Assignment.csproj|d:\\c# assignments\\oops_assignment\\oops_assignment\\tariff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8DD1316A-DCD5-4B8C-AF4B-FB9818AC0A48}|OOPS_Assignment\\OOPS_Assignment.csproj|solutionrelative:oops_assignment\\tariff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IDataIngestor.cs",
+              "DocumentMoniker": "D:\\c# assignments\\OOPS_Assignment\\OOPS_Assignment\\IDataIngestor.cs",
+              "RelativeDocumentMoniker": "OOPS_Assignment\\IDataIngestor.cs",
+              "ToolTip": "D:\\c# assignments\\OOPS_Assignment\\OOPS_Assignment\\IDataIngestor.cs",
+              "RelativeToolTip": "OOPS_Assignment\\IDataIngestor.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T07:18:39.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AlarmRule.cs",
+              "DocumentMoniker": "D:\\c# assignments\\OOPS_Assignment\\OOPS_Assignment\\AlarmRule.cs",
+              "RelativeDocumentMoniker": "OOPS_Assignment\\AlarmRule.cs",
+              "ToolTip": "D:\\c# assignments\\OOPS_Assignment\\OOPS_Assignment\\AlarmRule.cs",
+              "RelativeToolTip": "OOPS_Assignment\\AlarmRule.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA1wBgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-10T06:56:50.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoadProfileDay.cs",
+              "DocumentMoniker": "D:\\c# assignments\\OOPS_Assignment\\OOPS_Assignment\\LoadProfileDay.cs",
+              "RelativeDocumentMoniker": "OOPS_Assignment\\LoadProfileDay.cs",
+              "ToolTip": "D:\\c# assignments\\OOPS_Assignment\\OOPS_Assignment\\LoadProfileDay.cs",
+              "RelativeToolTip": "OOPS_Assignment\\LoadProfileDay.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T07:07:01.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BillingEngine.cs",
+              "DocumentMoniker": "D:\\c# assignments\\OOPS_Assignment\\OOPS_Assignment\\BillingEngine.cs",
+              "RelativeDocumentMoniker": "OOPS_Assignment\\BillingEngine.cs",
+              "ToolTip": "D:\\c# assignments\\OOPS_Assignment\\OOPS_Assignment\\BillingEngine.cs",
+              "RelativeToolTip": "OOPS_Assignment\\BillingEngine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T07:01:26.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AgricultureRule.cs",
+              "DocumentMoniker": "D:\\c# assignments\\OOPS_Assignment\\OOPS_Assignment\\AgricultureRule.cs",
+              "RelativeDocumentMoniker": "OOPS_Assignment\\AgricultureRule.cs",
+              "ToolTip": "D:\\c# assignments\\OOPS_Assignment\\OOPS_Assignment\\AgricultureRule.cs",
+              "RelativeToolTip": "OOPS_Assignment\\AgricultureRule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T06:57:47.71Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CommercialRule.cs",
+              "DocumentMoniker": "D:\\c# assignments\\OOPS_Assignment\\OOPS_Assignment\\CommercialRule.cs",
+              "RelativeDocumentMoniker": "OOPS_Assignment\\CommercialRule.cs",
+              "ToolTip": "D:\\c# assignments\\OOPS_Assignment\\OOPS_Assignment\\CommercialRule.cs",
+              "RelativeToolTip": "OOPS_Assignment\\CommercialRule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T06:57:33.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DomesticRule.cs",
+              "DocumentMoniker": "D:\\c# assignments\\OOPS_Assignment\\OOPS_Assignment\\DomesticRule.cs",
+              "RelativeDocumentMoniker": "OOPS_Assignment\\DomesticRule.cs",
+              "ToolTip": "D:\\c# assignments\\OOPS_Assignment\\OOPS_Assignment\\DomesticRule.cs",
+              "RelativeToolTip": "OOPS_Assignment\\DomesticRule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T06:57:19.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IBillingRule.cs",
+              "DocumentMoniker": "D:\\c# assignments\\OOPS_Assignment\\OOPS_Assignment\\IBillingRule.cs",
+              "RelativeDocumentMoniker": "OOPS_Assignment\\IBillingRule.cs",
+              "ToolTip": "D:\\c# assignments\\OOPS_Assignment\\OOPS_Assignment\\IBillingRule.cs",
+              "RelativeToolTip": "OOPS_Assignment\\IBillingRule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T06:54:48.647Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ModemGateway.cs",
+              "DocumentMoniker": "D:\\c# assignments\\OOPS_Assignment\\OOPS_Assignment\\ModemGateway.cs",
+              "RelativeDocumentMoniker": "OOPS_Assignment\\ModemGateway.cs",
+              "ToolTip": "D:\\c# assignments\\OOPS_Assignment\\OOPS_Assignment\\ModemGateway.cs",
+              "RelativeToolTip": "OOPS_Assignment\\ModemGateway.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T06:50:13.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DlmsMeter.cs",
+              "DocumentMoniker": "D:\\c# assignments\\OOPS_Assignment\\OOPS_Assignment\\DlmsMeter.cs",
+              "RelativeDocumentMoniker": "OOPS_Assignment\\DlmsMeter.cs",
+              "ToolTip": "D:\\c# assignments\\OOPS_Assignment\\OOPS_Assignment\\DlmsMeter.cs",
+              "RelativeToolTip": "OOPS_Assignment\\DlmsMeter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T06:46:03.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IReadable.cs",
+              "DocumentMoniker": "D:\\c# assignments\\OOPS_Assignment\\OOPS_Assignment\\IReadable.cs",
+              "RelativeDocumentMoniker": "OOPS_Assignment\\IReadable.cs",
+              "ToolTip": "D:\\c# assignments\\OOPS_Assignment\\OOPS_Assignment\\IReadable.cs",
+              "RelativeToolTip": "OOPS_Assignment\\IReadable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T06:44:19.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MeterInheritence.cs",
+              "DocumentMoniker": "D:\\c# assignments\\OOPS_Assignment\\OOPS_Assignment\\MeterInheritence.cs",
+              "RelativeDocumentMoniker": "OOPS_Assignment\\MeterInheritence.cs",
+              "ToolTip": "D:\\c# assignments\\OOPS_Assignment\\OOPS_Assignment\\MeterInheritence.cs",
+              "RelativeToolTip": "OOPS_Assignment\\MeterInheritence.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T06:33:18.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PhaseCount.cs",
+              "DocumentMoniker": "D:\\c# assignments\\OOPS_Assignment\\OOPS_Assignment\\PhaseCount.cs",
+              "RelativeDocumentMoniker": "OOPS_Assignment\\PhaseCount.cs",
+              "ToolTip": "D:\\c# assignments\\OOPS_Assignment\\OOPS_Assignment\\PhaseCount.cs",
+              "RelativeToolTip": "OOPS_Assignment\\PhaseCount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T06:32:49.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Device.cs",
+              "DocumentMoniker": "D:\\c# assignments\\OOPS_Assignment\\OOPS_Assignment\\Device.cs",
+              "RelativeDocumentMoniker": "OOPS_Assignment\\Device.cs",
+              "ToolTip": "D:\\c# assignments\\OOPS_Assignment\\OOPS_Assignment\\Device.cs",
+              "RelativeToolTip": "OOPS_Assignment\\Device.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T06:32:24.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Tariff.cs",
+              "DocumentMoniker": "D:\\c# assignments\\OOPS_Assignment\\OOPS_Assignment\\Tariff.cs",
+              "RelativeDocumentMoniker": "OOPS_Assignment\\Tariff.cs",
+              "ToolTip": "D:\\c# assignments\\OOPS_Assignment\\OOPS_Assignment\\Tariff.cs",
+              "RelativeToolTip": "OOPS_Assignment\\Tariff.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T05:33:36.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c# assignments\\OOPS_Assignment\\OOPS_Assignment\\Program.cs",
+              "RelativeDocumentMoniker": "OOPS_Assignment\\Program.cs",
+              "ToolTip": "D:\\c# assignments\\OOPS_Assignment\\OOPS_Assignment\\Program.cs",
+              "RelativeToolTip": "OOPS_Assignment\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T05:22:44.486Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c# assignments\\Linq\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0AEE9DDB-D113-4BB9-A17D-E910F09F856F}|Linq\\Linq.csproj|d:\\c# assignments\\linq\\linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AEE9DDB-D113-4BB9-A17D-E910F09F856F}|Linq\\Linq.csproj|solutionrelative:linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AEE9DDB-D113-4BB9-A17D-E910F09F856F}|Linq\\Linq.csproj|d:\\c# assignments\\linq\\linq\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AEE9DDB-D113-4BB9-A17D-E910F09F856F}|Linq\\Linq.csproj|solutionrelative:linq\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AEE9DDB-D113-4BB9-A17D-E910F09F856F}|Linq\\Linq.csproj|d:\\c# assignments\\linq\\linq\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AEE9DDB-D113-4BB9-A17D-E910F09F856F}|Linq\\Linq.csproj|solutionrelative:linq\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AEE9DDB-D113-4BB9-A17D-E910F09F856F}|Linq\\Linq.csproj|d:\\c# assignments\\linq\\linq\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AEE9DDB-D113-4BB9-A17D-E910F09F856F}|Linq\\Linq.csproj|solutionrelative:linq\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0AEE9DDB-D113-4BB9-A17D-E910F09F856F}|Linq\\Linq.csproj|d:\\c# assignments\\linq\\linq\\games.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0AEE9DDB-D113-4BB9-A17D-E910F09F856F}|Linq\\Linq.csproj|solutionrelative:linq\\games.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Games.cs",
+              "DocumentMoniker": "D:\\c# assignments\\Linq\\Linq\\Games.cs",
+              "RelativeDocumentMoniker": "Linq\\Games.cs",
+              "ToolTip": "D:\\c# assignments\\Linq\\Linq\\Games.cs",
+              "RelativeToolTip": "Linq\\Games.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T04:28:29.428Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\c# assignments\\Linq\\Linq\\Product.cs",
+              "RelativeDocumentMoniker": "Linq\\Product.cs",
+              "ToolTip": "D:\\c# assignments\\Linq\\Linq\\Product.cs",
+              "RelativeToolTip": "Linq\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T06:15:50.628Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\c# assignments\\Linq\\Linq\\Student.cs",
+              "RelativeDocumentMoniker": "Linq\\Student.cs",
+              "ToolTip": "D:\\c# assignments\\Linq\\Linq\\Student.cs",
+              "RelativeToolTip": "Linq\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T06:16:13.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c# assignments\\Linq\\Linq\\Program.cs",
+              "RelativeDocumentMoniker": "Linq\\Program.cs",
+              "ToolTip": "D:\\c# assignments\\Linq\\Linq\\Program.cs",
+              "RelativeToolTip": "Linq\\Program.cs",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAAAIQAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T04:25:58.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\c# assignments\\Linq\\Linq\\Employee.cs",
+              "RelativeDocumentMoniker": "Linq\\Employee.cs",
+              "ToolTip": "D:\\c# assignments\\Linq\\Linq\\Employee.cs",
+              "RelativeToolTip": "Linq\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-09T06:15:36.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
