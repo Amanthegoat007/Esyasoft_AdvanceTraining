@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\c# assignments\\OOPS_Assignment\\OOPS_Assignment\\OOPS_Assignment.csproj",
+      "projectUniqueName": "D:\\Esyasoft_AdvanceTraining\\.NET-C# Advanced\\OOPS_Assignment\\OOPS_Assignment\\OOPS_Assignment.csproj",
       "projectName": "OOPS_Assignment",
-      "projectPath": "D:\\c# assignments\\OOPS_Assignment\\OOPS_Assignment\\OOPS_Assignment.csproj",
+      "projectPath": "D:\\Esyasoft_AdvanceTraining\\.NET-C# Advanced\\OOPS_Assignment\\OOPS_Assignment\\OOPS_Assignment.csproj",
       "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
-      "outputPath": "D:\\c# assignments\\OOPS_Assignment\\OOPS_Assignment\\obj\\",
+      "outputPath": "D:\\Esyasoft_AdvanceTraining\\.NET-C# Advanced\\OOPS_Assignment\\OOPS_Assignment\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

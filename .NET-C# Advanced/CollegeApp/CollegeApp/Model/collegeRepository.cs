@@ -1,24 +1,24 @@
-﻿namespace CollegeApp.Model
-{
-    public class collegeRepository
-    {
-        public static List<Student> students { get; set; } = new List<Student>(){
-        new Student
-       {
-           studentID = 1,
-           name = "Test",
-           age = 1,
-           email = "shivam@gmail.com"
-       },
+﻿//namespace CollegeApp.Model
+//{
+//    public class collegeRepository
+//    {
+//        public static List<Student> students { get; set; } = new List<Student>(){
+//        new Student
+//       {
+//           studentID = 1,
+//           name = "Test",
+//           age = 1,
+//           email = "shivam@gmail.com"
+//       },
 
-       new Student {
+//       new Student {
 
-           studentID = 2,
-           name = "Test",
-           age = 2,
-           email = "dsckjbdsc"
-       }
+//           studentID = 2,
+//           name = "Test",
+//           age = 2,
+//           email = "dsckjbdsc"
+//       }
 
-   };
-    }
-}
+//   };
+//    }
+//}

@@ -1,4 +1,7 @@
 
+using CollegeApp.Data;
+using Microsoft.EntityFrameworkCore;
+
 namespace CollegeApp
 {
     public class Program
@@ -7,8 +10,12 @@ namespace CollegeApp
         {
             var builder = WebApplication.CreateBuilder(args);
 
-            // Add services to the container.
+            builder.Services.AddDbContext<CollegeDBContext>(options =>
+            {
+                options.UseSqlServer(builder.Configuration.GetConnectionString("ConnectionDB"));
+            });
 
+            // Add services to the 
             builder.Services.AddControllers();
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();

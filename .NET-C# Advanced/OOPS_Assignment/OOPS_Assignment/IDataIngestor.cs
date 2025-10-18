@@ -20,4 +20,8 @@ namespace OOPS_Assignment
 
         }
     }
+    internal class CsvIngestor : IDataIngestor
+    {
+
+    }
 }
