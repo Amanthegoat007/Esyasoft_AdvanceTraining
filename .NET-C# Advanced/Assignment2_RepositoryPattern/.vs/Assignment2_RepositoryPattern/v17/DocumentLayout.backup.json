@@ -1,0 +1,360 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\c# assignments\\Assignment2_RepositoryPattern\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1D8CBF45-53C7-44B8-A8FF-F86F3286343D}|Assignment2_RepositoryPattern\\Assignment2_RepositoryPattern.csproj|d:\\c# assignments\\assignment2_repositorypattern\\assignment2_repositorypattern\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D8CBF45-53C7-44B8-A8FF-F86F3286343D}|Assignment2_RepositoryPattern\\Assignment2_RepositoryPattern.csproj|solutionrelative:assignment2_repositorypattern\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D8CBF45-53C7-44B8-A8FF-F86F3286343D}|Assignment2_RepositoryPattern\\Assignment2_RepositoryPattern.csproj|d:\\c# assignments\\assignment2_repositorypattern\\assignment2_repositorypattern\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D8CBF45-53C7-44B8-A8FF-F86F3286343D}|Assignment2_RepositoryPattern\\Assignment2_RepositoryPattern.csproj|solutionrelative:assignment2_repositorypattern\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D8CBF45-53C7-44B8-A8FF-F86F3286343D}|Assignment2_RepositoryPattern\\Assignment2_RepositoryPattern.csproj|d:\\c# assignments\\assignment2_repositorypattern\\assignment2_repositorypattern\\dtos\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D8CBF45-53C7-44B8-A8FF-F86F3286343D}|Assignment2_RepositoryPattern\\Assignment2_RepositoryPattern.csproj|solutionrelative:assignment2_repositorypattern\\dtos\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D8CBF45-53C7-44B8-A8FF-F86F3286343D}|Assignment2_RepositoryPattern\\Assignment2_RepositoryPattern.csproj|d:\\c# assignments\\assignment2_repositorypattern\\assignment2_repositorypattern\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D8CBF45-53C7-44B8-A8FF-F86F3286343D}|Assignment2_RepositoryPattern\\Assignment2_RepositoryPattern.csproj|solutionrelative:assignment2_repositorypattern\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D8CBF45-53C7-44B8-A8FF-F86F3286343D}|Assignment2_RepositoryPattern\\Assignment2_RepositoryPattern.csproj|d:\\c# assignments\\assignment2_repositorypattern\\assignment2_repositorypattern\\models\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D8CBF45-53C7-44B8-A8FF-F86F3286343D}|Assignment2_RepositoryPattern\\Assignment2_RepositoryPattern.csproj|solutionrelative:assignment2_repositorypattern\\models\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D8CBF45-53C7-44B8-A8FF-F86F3286343D}|Assignment2_RepositoryPattern\\Assignment2_RepositoryPattern.csproj|d:\\c# assignments\\assignment2_repositorypattern\\assignment2_repositorypattern\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D8CBF45-53C7-44B8-A8FF-F86F3286343D}|Assignment2_RepositoryPattern\\Assignment2_RepositoryPattern.csproj|solutionrelative:assignment2_repositorypattern\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D8CBF45-53C7-44B8-A8FF-F86F3286343D}|Assignment2_RepositoryPattern\\Assignment2_RepositoryPattern.csproj|d:\\c# assignments\\assignment2_repositorypattern\\assignment2_repositorypattern\\dtos\\userregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D8CBF45-53C7-44B8-A8FF-F86F3286343D}|Assignment2_RepositoryPattern\\Assignment2_RepositoryPattern.csproj|solutionrelative:assignment2_repositorypattern\\dtos\\userregisterdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D8CBF45-53C7-44B8-A8FF-F86F3286343D}|Assignment2_RepositoryPattern\\Assignment2_RepositoryPattern.csproj|d:\\c# assignments\\assignment2_repositorypattern\\assignment2_repositorypattern\\dtos\\updateemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D8CBF45-53C7-44B8-A8FF-F86F3286343D}|Assignment2_RepositoryPattern\\Assignment2_RepositoryPattern.csproj|solutionrelative:assignment2_repositorypattern\\dtos\\updateemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D8CBF45-53C7-44B8-A8FF-F86F3286343D}|Assignment2_RepositoryPattern\\Assignment2_RepositoryPattern.csproj|d:\\c# assignments\\assignment2_repositorypattern\\assignment2_repositorypattern\\dtos\\createemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D8CBF45-53C7-44B8-A8FF-F86F3286343D}|Assignment2_RepositoryPattern\\Assignment2_RepositoryPattern.csproj|solutionrelative:assignment2_repositorypattern\\dtos\\createemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D8CBF45-53C7-44B8-A8FF-F86F3286343D}|Assignment2_RepositoryPattern\\Assignment2_RepositoryPattern.csproj|d:\\c# assignments\\assignment2_repositorypattern\\assignment2_repositorypattern\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D8CBF45-53C7-44B8-A8FF-F86F3286343D}|Assignment2_RepositoryPattern\\Assignment2_RepositoryPattern.csproj|solutionrelative:assignment2_repositorypattern\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D8CBF45-53C7-44B8-A8FF-F86F3286343D}|Assignment2_RepositoryPattern\\Assignment2_RepositoryPattern.csproj|d:\\c# assignments\\assignment2_repositorypattern\\assignment2_repositorypattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D8CBF45-53C7-44B8-A8FF-F86F3286343D}|Assignment2_RepositoryPattern\\Assignment2_RepositoryPattern.csproj|solutionrelative:assignment2_repositorypattern\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D8CBF45-53C7-44B8-A8FF-F86F3286343D}|Assignment2_RepositoryPattern\\Assignment2_RepositoryPattern.csproj|d:\\c# assignments\\assignment2_repositorypattern\\assignment2_repositorypattern\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1D8CBF45-53C7-44B8-A8FF-F86F3286343D}|Assignment2_RepositoryPattern\\Assignment2_RepositoryPattern.csproj|solutionrelative:assignment2_repositorypattern\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D8CBF45-53C7-44B8-A8FF-F86F3286343D}|Assignment2_RepositoryPattern\\Assignment2_RepositoryPattern.csproj|d:\\c# assignments\\assignment2_repositorypattern\\assignment2_repositorypattern\\services\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D8CBF45-53C7-44B8-A8FF-F86F3286343D}|Assignment2_RepositoryPattern\\Assignment2_RepositoryPattern.csproj|solutionrelative:assignment2_repositorypattern\\services\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D8CBF45-53C7-44B8-A8FF-F86F3286343D}|Assignment2_RepositoryPattern\\Assignment2_RepositoryPattern.csproj|d:\\c# assignments\\assignment2_repositorypattern\\assignment2_repositorypattern\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D8CBF45-53C7-44B8-A8FF-F86F3286343D}|Assignment2_RepositoryPattern\\Assignment2_RepositoryPattern.csproj|solutionrelative:assignment2_repositorypattern\\services\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D8CBF45-53C7-44B8-A8FF-F86F3286343D}|Assignment2_RepositoryPattern\\Assignment2_RepositoryPattern.csproj|d:\\c# assignments\\assignment2_repositorypattern\\assignment2_repositorypattern\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D8CBF45-53C7-44B8-A8FF-F86F3286343D}|Assignment2_RepositoryPattern\\Assignment2_RepositoryPattern.csproj|solutionrelative:assignment2_repositorypattern\\services\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D8CBF45-53C7-44B8-A8FF-F86F3286343D}|Assignment2_RepositoryPattern\\Assignment2_RepositoryPattern.csproj|d:\\c# assignments\\assignment2_repositorypattern\\assignment2_repositorypattern\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D8CBF45-53C7-44B8-A8FF-F86F3286343D}|Assignment2_RepositoryPattern\\Assignment2_RepositoryPattern.csproj|solutionrelative:assignment2_repositorypattern\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D8CBF45-53C7-44B8-A8FF-F86F3286343D}|Assignment2_RepositoryPattern\\Assignment2_RepositoryPattern.csproj|d:\\c# assignments\\assignment2_repositorypattern\\assignment2_repositorypattern\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D8CBF45-53C7-44B8-A8FF-F86F3286343D}|Assignment2_RepositoryPattern\\Assignment2_RepositoryPattern.csproj|solutionrelative:assignment2_repositorypattern\\repositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D8CBF45-53C7-44B8-A8FF-F86F3286343D}|Assignment2_RepositoryPattern\\Assignment2_RepositoryPattern.csproj|d:\\c# assignments\\assignment2_repositorypattern\\assignment2_repositorypattern\\repositories\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D8CBF45-53C7-44B8-A8FF-F86F3286343D}|Assignment2_RepositoryPattern\\Assignment2_RepositoryPattern.csproj|solutionrelative:assignment2_repositorypattern\\repositories\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D8CBF45-53C7-44B8-A8FF-F86F3286343D}|Assignment2_RepositoryPattern\\Assignment2_RepositoryPattern.csproj|d:\\c# assignments\\assignment2_repositorypattern\\assignment2_repositorypattern\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D8CBF45-53C7-44B8-A8FF-F86F3286343D}|Assignment2_RepositoryPattern\\Assignment2_RepositoryPattern.csproj|solutionrelative:assignment2_repositorypattern\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D8CBF45-53C7-44B8-A8FF-F86F3286343D}|Assignment2_RepositoryPattern\\Assignment2_RepositoryPattern.csproj|d:\\c# assignments\\assignment2_repositorypattern\\assignment2_repositorypattern\\assignment2_repositorypattern.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1D8CBF45-53C7-44B8-A8FF-F86F3286343D}|Assignment2_RepositoryPattern\\Assignment2_RepositoryPattern.csproj|solutionrelative:assignment2_repositorypattern\\assignment2_repositorypattern.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\c# assignments\\Assignment2_RepositoryPattern\\Assignment2_RepositoryPattern\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment2_RepositoryPattern\\Program.cs",
+              "ToolTip": "D:\\c# assignments\\Assignment2_RepositoryPattern\\Assignment2_RepositoryPattern\\Program.cs",
+              "RelativeToolTip": "Assignment2_RepositoryPattern\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwGUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T05:19:30.007Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserLoginDto.cs",
+              "DocumentMoniker": "D:\\c# assignments\\Assignment2_RepositoryPattern\\Assignment2_RepositoryPattern\\DTOs\\UserLoginDto.cs",
+              "RelativeDocumentMoniker": "Assignment2_RepositoryPattern\\DTOs\\UserLoginDto.cs",
+              "ToolTip": "D:\\c# assignments\\Assignment2_RepositoryPattern\\Assignment2_RepositoryPattern\\DTOs\\UserLoginDto.cs",
+              "RelativeToolTip": "Assignment2_RepositoryPattern\\DTOs\\UserLoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T05:14:08.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserRegisterDto.cs",
+              "DocumentMoniker": "D:\\c# assignments\\Assignment2_RepositoryPattern\\Assignment2_RepositoryPattern\\DTOs\\UserRegisterDto.cs",
+              "RelativeDocumentMoniker": "Assignment2_RepositoryPattern\\DTOs\\UserRegisterDto.cs",
+              "ToolTip": "D:\\c# assignments\\Assignment2_RepositoryPattern\\Assignment2_RepositoryPattern\\DTOs\\UserRegisterDto.cs",
+              "RelativeToolTip": "Assignment2_RepositoryPattern\\DTOs\\UserRegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T05:13:44.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\c# assignments\\Assignment2_RepositoryPattern\\Assignment2_RepositoryPattern\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Assignment2_RepositoryPattern\\Models\\Employee.cs",
+              "ToolTip": "D:\\c# assignments\\Assignment2_RepositoryPattern\\Assignment2_RepositoryPattern\\Models\\Employee.cs",
+              "RelativeToolTip": "Assignment2_RepositoryPattern\\Models\\Employee.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T04:52:31.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "D:\\c# assignments\\Assignment2_RepositoryPattern\\Assignment2_RepositoryPattern\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "Assignment2_RepositoryPattern\\Controllers\\EmployeesController.cs",
+              "ToolTip": "D:\\c# assignments\\Assignment2_RepositoryPattern\\Assignment2_RepositoryPattern\\Controllers\\EmployeesController.cs*",
+              "RelativeToolTip": "Assignment2_RepositoryPattern\\Controllers\\EmployeesController.cs*",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAowE8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T05:18:56.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeDbContext.cs",
+              "DocumentMoniker": "D:\\c# assignments\\Assignment2_RepositoryPattern\\Assignment2_RepositoryPattern\\Models\\EmployeeDbContext.cs",
+              "RelativeDocumentMoniker": "Assignment2_RepositoryPattern\\Models\\EmployeeDbContext.cs",
+              "ToolTip": "D:\\c# assignments\\Assignment2_RepositoryPattern\\Assignment2_RepositoryPattern\\Models\\EmployeeDbContext.cs",
+              "RelativeToolTip": "Assignment2_RepositoryPattern\\Models\\EmployeeDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T06:07:32.414Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\c# assignments\\Assignment2_RepositoryPattern\\Assignment2_RepositoryPattern\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Assignment2_RepositoryPattern\\Models\\User.cs",
+              "ToolTip": "D:\\c# assignments\\Assignment2_RepositoryPattern\\Assignment2_RepositoryPattern\\Models\\User.cs",
+              "RelativeToolTip": "Assignment2_RepositoryPattern\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T04:53:35.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\c# assignments\\Assignment2_RepositoryPattern\\Assignment2_RepositoryPattern\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Assignment2_RepositoryPattern\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\c# assignments\\Assignment2_RepositoryPattern\\Assignment2_RepositoryPattern\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Assignment2_RepositoryPattern\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T05:18:16.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateEmployeeDto.cs",
+              "DocumentMoniker": "D:\\c# assignments\\Assignment2_RepositoryPattern\\Assignment2_RepositoryPattern\\DTOs\\CreateEmployeeDto.cs",
+              "RelativeDocumentMoniker": "Assignment2_RepositoryPattern\\DTOs\\CreateEmployeeDto.cs",
+              "ToolTip": "D:\\c# assignments\\Assignment2_RepositoryPattern\\Assignment2_RepositoryPattern\\DTOs\\CreateEmployeeDto.cs",
+              "RelativeToolTip": "Assignment2_RepositoryPattern\\DTOs\\CreateEmployeeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T05:16:44.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EmployeeDto.cs",
+              "DocumentMoniker": "D:\\c# assignments\\Assignment2_RepositoryPattern\\Assignment2_RepositoryPattern\\DTOs\\EmployeeDto.cs",
+              "RelativeDocumentMoniker": "Assignment2_RepositoryPattern\\DTOs\\EmployeeDto.cs",
+              "ToolTip": "D:\\c# assignments\\Assignment2_RepositoryPattern\\Assignment2_RepositoryPattern\\DTOs\\EmployeeDto.cs",
+              "RelativeToolTip": "Assignment2_RepositoryPattern\\DTOs\\EmployeeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T05:16:28.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UpdateEmployeeDto.cs",
+              "DocumentMoniker": "D:\\c# assignments\\Assignment2_RepositoryPattern\\Assignment2_RepositoryPattern\\DTOs\\UpdateEmployeeDto.cs",
+              "RelativeDocumentMoniker": "Assignment2_RepositoryPattern\\DTOs\\UpdateEmployeeDto.cs",
+              "ToolTip": "D:\\c# assignments\\Assignment2_RepositoryPattern\\Assignment2_RepositoryPattern\\DTOs\\UpdateEmployeeDto.cs",
+              "RelativeToolTip": "Assignment2_RepositoryPattern\\DTOs\\UpdateEmployeeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T05:17:00.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "JwtSettings.cs",
+              "DocumentMoniker": "D:\\c# assignments\\Assignment2_RepositoryPattern\\Assignment2_RepositoryPattern\\Services\\JwtSettings.cs",
+              "RelativeDocumentMoniker": "Assignment2_RepositoryPattern\\Services\\JwtSettings.cs",
+              "ToolTip": "D:\\c# assignments\\Assignment2_RepositoryPattern\\Assignment2_RepositoryPattern\\Services\\JwtSettings.cs",
+              "RelativeToolTip": "Assignment2_RepositoryPattern\\Services\\JwtSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T05:33:17.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\c# assignments\\Assignment2_RepositoryPattern\\Assignment2_RepositoryPattern\\appsettings.json",
+              "RelativeDocumentMoniker": "Assignment2_RepositoryPattern\\appsettings.json",
+              "ToolTip": "D:\\c# assignments\\Assignment2_RepositoryPattern\\Assignment2_RepositoryPattern\\appsettings.json",
+              "RelativeToolTip": "Assignment2_RepositoryPattern\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-27T04:47:09.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "D:\\c# assignments\\Assignment2_RepositoryPattern\\Assignment2_RepositoryPattern\\Services\\IAuthService.cs",
+              "RelativeDocumentMoniker": "Assignment2_RepositoryPattern\\Services\\IAuthService.cs",
+              "ToolTip": "D:\\c# assignments\\Assignment2_RepositoryPattern\\Assignment2_RepositoryPattern\\Services\\IAuthService.cs",
+              "RelativeToolTip": "Assignment2_RepositoryPattern\\Services\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T05:12:27.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\c# assignments\\Assignment2_RepositoryPattern\\Assignment2_RepositoryPattern\\Services\\AuthService.cs",
+              "RelativeDocumentMoniker": "Assignment2_RepositoryPattern\\Services\\AuthService.cs",
+              "ToolTip": "D:\\c# assignments\\Assignment2_RepositoryPattern\\Assignment2_RepositoryPattern\\Services\\AuthService.cs",
+              "RelativeToolTip": "Assignment2_RepositoryPattern\\Services\\AuthService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T05:13:02.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\c# assignments\\Assignment2_RepositoryPattern\\Assignment2_RepositoryPattern\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Assignment2_RepositoryPattern\\Repositories\\UserRepository.cs",
+              "ToolTip": "D:\\c# assignments\\Assignment2_RepositoryPattern\\Assignment2_RepositoryPattern\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Assignment2_RepositoryPattern\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T04:58:13.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\c# assignments\\Assignment2_RepositoryPattern\\Assignment2_RepositoryPattern\\Repositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Assignment2_RepositoryPattern\\Repositories\\IUserRepository.cs",
+              "ToolTip": "D:\\c# assignments\\Assignment2_RepositoryPattern\\Assignment2_RepositoryPattern\\Repositories\\IUserRepository.cs",
+              "RelativeToolTip": "Assignment2_RepositoryPattern\\Repositories\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T04:57:14.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "D:\\c# assignments\\Assignment2_RepositoryPattern\\Assignment2_RepositoryPattern\\Repositories\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Assignment2_RepositoryPattern\\Repositories\\IEmployeeRepository.cs",
+              "ToolTip": "D:\\c# assignments\\Assignment2_RepositoryPattern\\Assignment2_RepositoryPattern\\Repositories\\IEmployeeRepository.cs",
+              "RelativeToolTip": "Assignment2_RepositoryPattern\\Repositories\\IEmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T04:55:37.432Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "D:\\c# assignments\\Assignment2_RepositoryPattern\\Assignment2_RepositoryPattern\\Repositories\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Assignment2_RepositoryPattern\\Repositories\\EmployeeRepository.cs",
+              "ToolTip": "D:\\c# assignments\\Assignment2_RepositoryPattern\\Assignment2_RepositoryPattern\\Repositories\\EmployeeRepository.cs",
+              "RelativeToolTip": "Assignment2_RepositoryPattern\\Repositories\\EmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T04:56:21.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Assignment2_RepositoryPattern.csproj",
+              "DocumentMoniker": "D:\\c# assignments\\Assignment2_RepositoryPattern\\Assignment2_RepositoryPattern\\Assignment2_RepositoryPattern.csproj",
+              "RelativeDocumentMoniker": "Assignment2_RepositoryPattern\\Assignment2_RepositoryPattern.csproj",
+              "ToolTip": "D:\\c# assignments\\Assignment2_RepositoryPattern\\Assignment2_RepositoryPattern\\Assignment2_RepositoryPattern.csproj",
+              "RelativeToolTip": "Assignment2_RepositoryPattern\\Assignment2_RepositoryPattern.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-27T05:10:45.579Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
