@@ -7,20 +7,24 @@
       "RelativeMoniker": "D:0:0:{8B66C24D-AC74-4AAF-9243-D0711449E9FC}|CollegeApp\\CollegeApp.csproj|solutionrelative:collegeapp\\controllers\\collegeapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8B66C24D-AC74-4AAF-9243-D0711449E9FC}|CollegeApp\\CollegeApp.csproj|d:\\esyasoft_advancetraining\\.net-c# advanced\\collegeapp\\collegeapp\\data\\collegedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B66C24D-AC74-4AAF-9243-D0711449E9FC}|CollegeApp\\CollegeApp.csproj|solutionrelative:collegeapp\\data\\collegedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8B66C24D-AC74-4AAF-9243-D0711449E9FC}|CollegeApp\\CollegeApp.csproj|d:\\esyasoft_advancetraining\\.net-c# advanced\\collegeapp\\collegeapp\\model\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B66C24D-AC74-4AAF-9243-D0711449E9FC}|CollegeApp\\CollegeApp.csproj|solutionrelative:collegeapp\\model\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8B66C24D-AC74-4AAF-9243-D0711449E9FC}|CollegeApp\\CollegeApp.csproj|d:\\esyasoft_advancetraining\\.net-c# advanced\\collegeapp\\collegeapp\\data\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8B66C24D-AC74-4AAF-9243-D0711449E9FC}|CollegeApp\\CollegeApp.csproj|solutionrelative:collegeapp\\data\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{8B66C24D-AC74-4AAF-9243-D0711449E9FC}|CollegeApp\\CollegeApp.csproj|d:\\esyasoft_advancetraining\\.net-c# advanced\\collegeapp\\collegeapp\\data\\collegedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B66C24D-AC74-4AAF-9243-D0711449E9FC}|CollegeApp\\CollegeApp.csproj|solutionrelative:collegeapp\\data\\collegedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8B66C24D-AC74-4AAF-9243-D0711449E9FC}|CollegeApp\\CollegeApp.csproj|d:\\esyasoft_advancetraining\\.net-c# advanced\\collegeapp\\collegeapp\\data\\config\\studentconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8B66C24D-AC74-4AAF-9243-D0711449E9FC}|CollegeApp\\CollegeApp.csproj|solutionrelative:collegeapp\\data\\config\\studentconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8B66C24D-AC74-4AAF-9243-D0711449E9FC}|CollegeApp\\CollegeApp.csproj|d:\\esyasoft_advancetraining\\.net-c# advanced\\collegeapp\\collegeapp\\model\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8B66C24D-AC74-4AAF-9243-D0711449E9FC}|CollegeApp\\CollegeApp.csproj|solutionrelative:collegeapp\\model\\studentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8B66C24D-AC74-4AAF-9243-D0711449E9FC}|CollegeApp\\CollegeApp.csproj|d:\\esyasoft_advancetraining\\.net-c# advanced\\collegeapp\\collegeapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8B66C24D-AC74-4AAF-9243-D0711449E9FC}|CollegeApp\\CollegeApp.csproj|solutionrelative:collegeapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8B66C24D-AC74-4AAF-9243-D0711449E9FC}|CollegeApp\\CollegeApp.csproj|d:\\esyasoft_advancetraining\\.net-c# advanced\\collegeapp\\collegeapp\\model\\validations\\firstcapitalattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,8 +42,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Esyasoft_AdvanceTraining\\.NET-C# Advanced\\CollegeApp\\CollegeApp\\appsettings.json",
+              "RelativeDocumentMoniker": "CollegeApp\\appsettings.json",
+              "ToolTip": "D:\\Esyasoft_AdvanceTraining\\.NET-C# Advanced\\CollegeApp\\CollegeApp\\appsettings.json",
+              "RelativeToolTip": "CollegeApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-31T06:56:32.802Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -50,7 +67,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "StudentConfig.cs",
               "DocumentMoniker": "D:\\Esyasoft_AdvanceTraining\\.NET-C# Advanced\\CollegeApp\\CollegeApp\\Data\\config\\StudentConfig.cs",
               "RelativeDocumentMoniker": "CollegeApp\\Data\\config\\StudentConfig.cs",
@@ -63,7 +80,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "CollegeDBContext.cs",
               "DocumentMoniker": "D:\\Esyasoft_AdvanceTraining\\.NET-C# Advanced\\CollegeApp\\CollegeApp\\Data\\CollegeDBContext.cs",
               "RelativeDocumentMoniker": "CollegeApp\\Data\\CollegeDBContext.cs",
@@ -95,14 +112,14 @@
               "RelativeDocumentMoniker": "CollegeApp\\Controllers\\CollegeApp.cs",
               "ToolTip": "D:\\Esyasoft_AdvanceTraining\\.NET-C# Advanced\\CollegeApp\\CollegeApp\\Controllers\\CollegeApp.cs",
               "RelativeToolTip": "CollegeApp\\Controllers\\CollegeApp.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACcAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwCcAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-09T09:58:31.182Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "studentDTO.cs",
               "DocumentMoniker": "D:\\Esyasoft_AdvanceTraining\\.NET-C# Advanced\\CollegeApp\\CollegeApp\\Model\\studentDTO.cs",
               "RelativeDocumentMoniker": "CollegeApp\\Model\\studentDTO.cs",
@@ -110,11 +127,12 @@
               "RelativeToolTip": "CollegeApp\\Model\\studentDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-13T04:26:05.006Z"
+              "WhenOpened": "2025-10-13T04:26:05.006Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "FirstCapitalAttribute.cs",
               "DocumentMoniker": "D:\\Esyasoft_AdvanceTraining\\.NET-C# Advanced\\CollegeApp\\CollegeApp\\Model\\Validations\\FirstCapitalAttribute.cs",
               "RelativeDocumentMoniker": "CollegeApp\\Model\\Validations\\FirstCapitalAttribute.cs",
@@ -126,7 +144,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "SpaceCheckAttribute.cs",
               "DocumentMoniker": "D:\\Esyasoft_AdvanceTraining\\.NET-C# Advanced\\CollegeApp\\CollegeApp\\Model\\Validations\\SpaceCheckAttribute.cs",
               "RelativeDocumentMoniker": "CollegeApp\\Model\\Validations\\SpaceCheckAttribute.cs",
